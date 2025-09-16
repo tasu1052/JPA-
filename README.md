@@ -1,5 +1,4 @@
 # 📝 JPA 회원가입 & 로그인 프로젝트
-
 Spring Boot와 JPA를 활용하여 **회원가입 및 로그인 기능**을 구현한 프로젝트입니다.  
 간단한 CRUD, 세션 로그인/로그아웃 처리, 회원 목록 조회 및 삭제, 이메일 중복 체크 등을 연습하기 위해 제작했습니다.
 
@@ -12,17 +11,6 @@ Spring Boot와 JPA를 활용하여 **회원가입 및 로그인 기능**을 구�
 - **Frontend**: AJAX, JavaScript
 - **Build Tool**: Gradle
 - **Language**: Java 17
-
----
-
-## 📂 프로젝트 구조
-src/main/java/com/example/demo
-├── controller # 웹 요청 처리
-├── dto # DTO 클래스
-├── entity # JPA 엔티티 클래스
-├── repository # JPA Repository 인터페이스
-├── service # 비즈니스 로직
-└── DemoApplication.java
 
 ---
 
